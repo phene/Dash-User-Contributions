@@ -17,6 +17,14 @@
             "archive": "versions/1.14.7.260329/Terraform.tgz"
         },
         {
+            "version": "1.14.7.260322",
+            "archive": "versions/1.14.7.260322/Terraform.tgz"
+        },
+        {
+            "version": "1.14.6.260315",
+            "archive": "versions/1.14.6.260315/Terraform.tgz"
+        },
+        {
             "version": "1.14.6.260308",
             "archive": "versions/1.14.6.260308/Terraform.tgz"
         },
