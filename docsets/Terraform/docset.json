@@ -17,6 +17,30 @@
             "archive": "versions/1.16.7.261101/Terraform.tgz"
         },
         {
+            "version": "1.16.6.261025",
+            "archive": "versions/1.16.6.261025/Terraform.tgz"
+        },
+        {
+            "version": "1.16.5.261018",
+            "archive": "versions/1.16.5.261018/Terraform.tgz"
+        },
+        {
+            "version": "1.16.5.261011",
+            "archive": "versions/1.16.5.261011/Terraform.tgz"
+        },
+        {
+            "version": "1.16.4.261004",
+            "archive": "versions/1.16.4.261004/Terraform.tgz"
+        },
+        {
+            "version": "1.16.3.260927",
+            "archive": "versions/1.16.3.260927/Terraform.tgz"
+        },
+        {
+            "version": "1.16.2.260920",
+            "archive": "versions/1.16.2.260920/Terraform.tgz"
+        },
+        {
             "version": "1.16.1.260913",
             "archive": "versions/1.16.1.260913/Terraform.tgz"
         },
